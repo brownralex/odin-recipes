@@ -1,0 +1,37 @@
+body{
+    background-color: #6C8480
+}
+
+.title{
+    background-color: #404E3B;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin: 0px;
+    font-size: 40px;
+}
+.title#subtitle{
+    font-size: 25px;
+}
+
+.homepage{
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    font-size: 30px;
+}
+
+#instructions{
+    text-align: center;
+    font-size: large;
+    margin-bottom: 25px;
+}
+
+.recipe-card{
+    background: #BAC8B1;
+    text-align: left;
+    padding: 20px;
+    font-size: 25px;
+    margin: 10px;
+}
