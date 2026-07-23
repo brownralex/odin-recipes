@@ -10,8 +10,15 @@ body{
     margin: 0px;
     font-size: 40px;
 }
-.title#subtitle{
+.title.subtitle{
     font-size: 25px;
+}
+.home-link{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-color: #404E3B;
+    margin: 0px;
 }
 
 .homepage{
@@ -34,4 +41,21 @@ body{
     padding: 20px;
     font-size: 25px;
     margin: 10px;
+} 
+
+.recipe-instructions{
+    background-color: #BAC8B1;
+    /* color: white; */
+    padding: 10px;
+    margin: 15px;
+}
+
+.recipe-image{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.lists{
+    font-size: 20px;
 }
